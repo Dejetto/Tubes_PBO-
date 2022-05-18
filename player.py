@@ -25,6 +25,7 @@ class Hero(ABC):
 
         self.jmp = True
 
+        
 
     @abstractmethod
     def dead (self):
