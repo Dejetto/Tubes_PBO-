@@ -97,7 +97,6 @@ class Hero(ABC):
             else :
                 self.health -= enemy_damage
               
-            
         else :
             self.health = 0
 
